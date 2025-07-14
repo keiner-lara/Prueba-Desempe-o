@@ -1,0 +1,12 @@
+{
+  "name": "keinerlara525",
+  "version": "1.0.0",
+  "description": "Aplicación para la gestión de eventos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
